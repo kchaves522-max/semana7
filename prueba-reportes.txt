@@ -1,0 +1,5 @@
+Cuando se envía un reporte usando POST, este se guarda en un arreglo en memoria llamado "reportes".
+
+Luego al consultar GET /reportes, se muestran todos los reportes registrados.
+
+Cada reporte recibe un id automático según el orden en que fue agregado.

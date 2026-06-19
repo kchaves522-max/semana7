@@ -1,0 +1,13 @@
+Las APIs permiten crear sistemas donde la información puede ser enviada y consultada fácilmente.
+
+Esto es útil en comunidades porque facilita el reporte de problemas como daños o situaciones ambientales.
+
+El uso de rutas GET y POST permite organizar mejor la información.
+
+Además, el almacenamiento en memoria ayuda a entender cómo funcionan las bases de datos.
+
+Este tipo de aplicaciones mejoran la comunicación entre ciudadanos y entidades.
+
+También fomentan la participación activa en la comunidad.
+
+En general, es una herramienta importante para la gestión de información.
